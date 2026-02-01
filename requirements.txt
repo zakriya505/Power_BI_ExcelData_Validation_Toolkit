@@ -1,0 +1,16 @@
+I have an urgent, short-term assignment: create a set of descriptive dashboards in Power BI by pulling live data from our SAP ERP system. The log-in and any needed documentation will be supplied as soon as we start.
+
+Scope
+• Establish a reliable connection between Power BI and my SAP environment (I will grant remote access).
+• Model the extracted tables so that business users can slice and drill through the data easily.
+• Design at least one polished report page that answers our immediate “report analysis” questions—think clear visuals, intuitive filters, and quick refresh times.
+• Provide the .pbix file and a brief walkthrough so we can maintain it internally.
+
+Speed matters; if you have prior experience combining SAP (any module) with Power BI and can demonstrate similar work, you’ll be a great fit.
+
+
+
+
+It is a small project of power Bi and Sap
+It is just answering some questions
+I link the file of the question can you take a look?

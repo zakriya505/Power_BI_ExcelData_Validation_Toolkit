@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Project Banner" width="720"/>
 </p>
 
-# Project: Power BI & Excel Data Validation Suite
+# Project: Power BI & Excel Data Validation Toolkit
 
 **Tagline:** _Automated validation of Power BI & Excel financial reports using Python for reproducible BI QA._
 
